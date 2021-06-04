@@ -423,8 +423,20 @@
     padding-left: 0px;
   }
 
+  .navigation-side {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
   .logo {
-    width: 80px;
+    width: 30%;
+  }
+
+  .navigation-split {
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .main-hero-container {
